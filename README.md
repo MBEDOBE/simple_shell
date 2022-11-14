@@ -1,8 +1,8 @@
 # simple_shell
 Second team project for the ALX-SE program
 
-*Authors for this project include:
+## Authors for this project include:
 
--Daniel Mbedobe Kunji
+- Daniel Mbedobe Kunji
 
--Cindy Odame
+- Cindy Odame
